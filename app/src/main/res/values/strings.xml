@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SubitoStargazers</string>
+    <string name="repo_not_found_404">Repository not found!</string>
+    <string name="general_error_message">Something goes wrong…</string>
+    <string name="owner">Owner</string>
+    <string name="repository_name">Repository Name</string>
+    <string name="show_stargazers">Show Stargazers</string>
+    <string name="no_one_stargazer">This repository has no one stargazer</string>
+    <string name="check_the_field">Check the field</string>
+    <string name="offline_message">You are offline, connect to internet and retry!</string>
+    <string name="endpoint_api_github">https://api.github.com/</string>
+    <string name="loading_page">Loading page %1$s</string>
+    <string name="starg_of_repo_by_owner">Stargazers of %1$s by %2$s</string>
+</resources>
